@@ -8,7 +8,7 @@ function TimePickerExample() {
   return (
     <div>
       <Box width="200px">
-        <Input type="time" />
+        <Input type="datetime-local" />
       </Box>
     </div>
   );
